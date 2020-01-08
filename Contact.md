@@ -3,3 +3,4 @@
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/liam-goodchild-23a96019a/)
+- [YouTube](https://www.youtube.com/channel/UCe5UYnVeLb5utKx9T0ntAXQ?view_as=subscriber)
