@@ -1,6 +1,6 @@
 ### Portfolio
 
-[Contact](https://comet91.github.io/Portfolio/contact.md)
+[Contact](https://comet91.github.io/Portfolio/contact)
 
 **Contact:**
 - Email:
