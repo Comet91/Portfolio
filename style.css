@@ -7,7 +7,7 @@ input[type=text] {
   background-color: #f8f8f8;
   resize: none;
   
-input[type=submit] {
+input[type=email] {
   width: 100%;
   padding: 12px 20px;
   box-sizing: border-box;
