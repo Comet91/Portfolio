@@ -1,3 +1,3 @@
 ### Portfolio
 
-[Contact](https://comet91.github.io/Portfolio/contact)
+[Contact](https://comet91.github.io/Portfolio/contact.html)
