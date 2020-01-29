@@ -22,8 +22,9 @@
 }
 
 /*  custom code */
-nav ul {
+nav ul, nav ul li {
   list-style-type: none;
+  display: inline;
 }
 
 * {
