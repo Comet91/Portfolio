@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: index
 title: Portfolio
 ---
 
