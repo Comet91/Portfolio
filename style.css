@@ -27,3 +27,20 @@ textarea {
   background-color: #f8f8f8;
   resize: none;
 }
+  
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("images/0001.jpg"), url("images/0002.jpg"), url("images/0003.jpg"), url("images/0004.jpg"), url("images/0005.jpg"), url("images/0006.jpg"), url("images/0007.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
